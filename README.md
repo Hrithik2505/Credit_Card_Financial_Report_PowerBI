@@ -1,5 +1,5 @@
 # Credit Card Financial Dashboard
-
+https://app.powerbi.com/view?r=eyJrIjoiODc3MTQ0NDItMzk0Yy00YmE4LTgwOTEtYzliNTczYzdhMjA2IiwidCI6ImVhNGE4YmE4LWVlM2ItNDg4NS05MTIwLWM1MDRkYjYxYzZlMCJ9
 ## Overview
 
 This project involves creating a **Power BI Weekly Dashboard** for **Credit Card Financial Data**. The dashboard provides insights into customer transactions, revenue trends, and demographic-based spending patterns. The data is sourced from a **pgAdmin SQL Database**, transformed using **DAX queries**, and visualized in **Power BI**.
